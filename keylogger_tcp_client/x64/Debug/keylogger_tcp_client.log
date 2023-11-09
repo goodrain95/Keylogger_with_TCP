@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\goodr\source\repos\keylogger_tcp_client\keylogger_tcp_client\main.c(3,1): warning C4005: 'UNICODE': 매크로 재정의
+C:\Users\goodr\source\repos\keylogger_tcp_client\keylogger_tcp_client\main.c(3,1): message : 이전에 명령줄에서 선언된 'UNICODE'
+C:\Users\goodr\source\repos\keylogger_tcp_client\keylogger_tcp_client\main.c(134,21): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\goodr\source\repos\keylogger_tcp_client\keylogger_tcp_client\main.c(168,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\goodr\source\repos\keylogger_tcp_client\keylogger_tcp_client\main.c(180,21): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\goodr\source\repos\keylogger_tcp_client\keylogger_tcp_client\main.c(283,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\goodr\source\repos\keylogger_tcp_client\keylogger_tcp_client\main.c(334,10): warning C4101: 'recvbuf' :참조되지 않은 지역 변수입니다.
+C:\Users\goodr\source\repos\keylogger_tcp_client\keylogger_tcp_client\main.c(333,10): warning C4101: 'sendbuf' :참조되지 않은 지역 변수입니다.
+  keylogger_tcp_client.vcxproj -> C:\Users\goodr\source\repos\keylogger_tcp_client\x64\Debug\keylogger_tcp_client.exe
